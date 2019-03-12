@@ -61,10 +61,10 @@
 |A1054|[奶牛的罢工](http://www.tsinsen.com/A1054) | [C++](./cpp/A1054/main.cpp)|
 |A1055|["The Next Cow" Strikes Back](http://www.tsinsen.com/A1055) | [C++](./cpp/A1055/main.cpp)|
 |A1056|[Sine之舞](http://www.tsinsen.com/A1056) | [C++](./cpp/A1056/main.cpp)|
-|A1057|[name](http://www.tsinsen.com/A1057) | [C++](./cpp/A1057/main.cpp)|
-|A1058|[name](http://www.tsinsen.com/A1058) | [C++](./cpp/A1058/main.cpp)|
-|A1059|[name](http://www.tsinsen.com/A1059) | [C++](./cpp/A1059/main.cpp)|
-|A1060|[name](http://www.tsinsen.com/A1060) | [C++](./cpp/A1060/main.cpp)|
+|A1057|[FJ的字符串](http://www.tsinsen.com/A1057) | [C++](./cpp/A1057/main.cpp)|
+|A1058|[芯片测试](http://www.tsinsen.com/A1058) | [C++](./cpp/A1058/main.cpp)|
+|A1059|[求解二元整数不定方程](http://www.tsinsen.com/A1059) | [C++](./cpp/A1059/main.cpp)|
+|A1060|[Archery](http://www.tsinsen.com/A1060) | [C++](./cpp/A1060/main.cpp)|
 |A1061|[name](http://www.tsinsen.com/A1061) | [C++](./cpp/A1061/main.cpp)|
 |A1062|[name](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)|
 |A1063|[name](http://www.tsinsen.com/A1063) | [C++](./cpp/A1063/main.cpp)|
