@@ -1,3 +1,7 @@
+// Source : http://www.tsinsen.com/A1054
+// Author : Modnar
+// Date   : 2019-03-12
+
 #include <iostream>
 #include <vector>
 

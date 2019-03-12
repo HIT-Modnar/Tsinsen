@@ -1,6 +1,8 @@
-#include <iostream>
+// Source : http://www.tsinsen.com/A1056
+// Author : Modnar
+// Date   : 2019-03-12
 
-int number;
+#include <iostream>
 
 void An(int n, int limit) {
     if (n == limit) {
@@ -12,20 +14,23 @@ void An(int n, int limit) {
     std::cout << ")";
 }
 
-void Sn(int n) {
+void Sn(int n, int limit) {
     if (n == 1) {
-        An(1, number);
-        std::cout << "+" << number-n+1;
+        An(1, n);
+        std::cout << "+" << limit-n+1;
         return;
     }
     std::cout << "(";
-    Sn(n-1);
+    Sn(n-1, limit);
     std::cout << ")";
-    An(number-n, number);
-    std::cout << "+" << number-n+1;
+    An(1, n);
+    std::cout << "+" << limit-n+1;
 }
 
 int main(int argc, char *argv[]) {
+    int number;
     std::cin >> number;
+    Sn(number, number);
+    std::cout << std::endl;
     return 0;
 }
