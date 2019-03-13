@@ -65,8 +65,8 @@
 |A1058|[芯片测试](http://www.tsinsen.com/A1058) | [C++](./cpp/A1058/main.cpp)|
 |A1059|[求解二元整数不定方程](http://www.tsinsen.com/A1059) | [C++](./cpp/A1059/main.cpp)|
 |A1060|[Archery](http://www.tsinsen.com/A1060) | [C++](./cpp/A1060/main.cpp)|
-|A1061|[name](http://www.tsinsen.com/A1061) | [C++](./cpp/A1061/main.cpp)|
-|A1062|[name](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)|
+|A1061|[求因子个数](http://www.tsinsen.com/A1061) | [C++](./cpp/A1061/main.cpp)|
+|A1062|[龟兔赛跑预测](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)|
 |A1063|[name](http://www.tsinsen.com/A1063) | [C++](./cpp/A1063/main.cpp)|
 |A1064|[name](http://www.tsinsen.com/A1064) | [C++](./cpp/A1064/main.cpp)|
 |A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)|
@@ -77,7 +77,7 @@
 |A1070|[name](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)|
 |A1071|[name](http://www.tsinsen.com/A1071) | [C++](./cpp/A1071/main.cpp)|
 |A1072|[name](http://www.tsinsen.com/A1072) | [C++](./cpp/A1072/main.cpp)|
-|A1073|[name](http://www.tsinsen.com/A1073) | [C++](./cpp/A1073/main.cpp)|
+|A1073|[矩阵运算](http://www.tsinsen.com/A1073) | [C++](./cpp/A1073/main.cpp)|
 |A1074|[name](http://www.tsinsen.com/A1074) | [C++](./cpp/A1074/main.cpp)|
 |A1075|[name](http://www.tsinsen.com/A1075) | [C++](./cpp/A1075/main.cpp)|
 |A1076|[name](http://www.tsinsen.com/A1076) | [C++](./cpp/A1076/main.cpp)|
