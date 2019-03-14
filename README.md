@@ -96,8 +96,8 @@
 |A1089|[name](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)|
 |A1090|[name](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)|
 |A1091|[name](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)|
-|A1092|[name](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)|
-|A1093|[name](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)|
+|A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)|
+|A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)|
 |A1094|[name](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)|
 |A1095|[name](http://www.tsinsen.com/A1095) | [C++](./cpp/A1095/main.cpp)|
 |A1096|[name](http://www.tsinsen.com/A1096) | [C++](./cpp/A1096/main.cpp)|
