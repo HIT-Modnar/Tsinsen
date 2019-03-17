@@ -93,9 +93,9 @@
 |A1086|[name](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
 |A1087|[高精度加法](http://www.tsinsen.com/A1087) | [C++](./cpp/A1087/main.cpp)||
 |A1088|[差分计算](http://www.tsinsen.com/A1088) | [C++](./cpp/A1088/main.cpp)||
-|A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)||
+|A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)| ⭐️ |
 |A1090|[name](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)||
-|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)||
+|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ⭐️ |
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
 |A1094|[name](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
