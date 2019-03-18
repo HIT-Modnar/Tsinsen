@@ -79,8 +79,8 @@
 |A1072|[潜伏者](http://www.tsinsen.com/A1072) | [C++](./cpp/A1072/main.cpp)||
 |A1073|[矩阵运算](http://www.tsinsen.com/A1073) | [C++](./cpp/A1073/main.cpp)||
 |A1074|[线性运算](http://www.tsinsen.com/A1074) | [C++](./cpp/A1074/main.cpp)||
-|A1075|[name](http://www.tsinsen.com/A1075) | [C++](./cpp/A1075/main.cpp)||
-|A1076|[name](http://www.tsinsen.com/A1076) | [C++](./cpp/A1076/main.cpp)||
+|A1075|[报时助手](http://www.tsinsen.com/A1075) | [C++](./cpp/A1075/main.cpp)||
+|A1076|[约数个数](http://www.tsinsen.com/A1076) | [C++](./cpp/A1076/main.cpp)||
 |A1077|[坐标排序](http://www.tsinsen.com/A1077) | [C++](./cpp/A1077/main.cpp)||
 |A1078|[逆序对个数](http://www.tsinsen.com/A1078) | [C++](./cpp/A1078/main.cpp)||
 |A1079|[name](http://www.tsinsen.com/A1079) | [C++](./cpp/A1079/main.cpp)||

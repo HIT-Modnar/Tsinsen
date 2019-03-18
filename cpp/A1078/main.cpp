@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
     std::cin >> n;
     for (int i = 0; i < n; ++i)
         std::cin >> lst[i];
-    // Idea: bubble sort's swap times is the reverse order 2-tuple.
+    // Idea: bubble sort's swap times is the reverse order 2-tuple's number.
     // And the select sort couldn't reach this target.
     for (int i = 0; i < n-1; ++i) 
         for (int j = 0; j < n-i-1; ++j)
