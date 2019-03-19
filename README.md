@@ -51,8 +51,8 @@
 |A1044|[Fibonacci数列求和](http://www.tsinsen.com/A1044) | [C++](./cpp/A1044/main.cpp)||
 |A1045|[交换](http://www.tsinsen.com/A1045) | [C++](./cpp/A1045/main.cpp)||
 |A1046|[加法器](http://www.tsinsen.com/A1046) | [C++](./cpp/A1046/main.cpp)||
-|A1047|[name](http://www.tsinsen.com/A1047) | [C++](./cpp/A1047/main.cpp)||
-|A1048|[name](http://www.tsinsen.com/A1048) | [C++](./cpp/A1048/main.cpp)||
+|A1047|[做明智的消费者](http://www.tsinsen.com/A1047) | [C++](./cpp/A1047/main.cpp)||
+|A1048|[数字三角形](http://www.tsinsen.com/A1048) | [C++](./cpp/A1048/main.cpp)||
 |A1049|[name](http://www.tsinsen.com/A1049) | [C++](./cpp/A1049/main.cpp)||
 |A1050|[碱基比例](http://www.tsinsen.com/A1050) | [C++](./cpp/A1050/main.cpp)||
 |A1051|[DNA序列](http://www.tsinsen.com/A1051) | [C++](./cpp/A1051/main.cpp)||
