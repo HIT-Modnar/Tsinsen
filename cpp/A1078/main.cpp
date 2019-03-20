@@ -43,7 +43,7 @@ int main(int argc, char *argv[]) {
     std::cin >> n;
     for (int i = 0; i < n; ++i) {
         std::cin >> lst[i];
- //       lst_of_merge[i] = lst[i];
+//        lst_of_merge[i] = lst[i];
     }
     // Idea: bubble sort's swap times is the reverse order 2-tuple's number.
     // And the select sort couldn't reach this target.
