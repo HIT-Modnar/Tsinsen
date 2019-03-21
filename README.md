@@ -72,7 +72,7 @@
 |A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)||
 |A1066|[name](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)||
 |A1067|[name](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
-|A1068|[name](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)||
+|A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)|☆|
 |A1069|[name](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)||
 |A1070|[name](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)||
 |A1071|[分数线划定](http://www.tsinsen.com/A1071) | [C++](./cpp/A1071/main.cpp)||
@@ -93,9 +93,9 @@
 |A1086|[name](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
 |A1087|[高精度加法](http://www.tsinsen.com/A1087) | [C++](./cpp/A1087/main.cpp)||
 |A1088|[差分计算](http://www.tsinsen.com/A1088) | [C++](./cpp/A1088/main.cpp)||
-|A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)| ⭐️ |
+|A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)| ★ |
 |A1090|[name](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)||
-|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ⭐️ |
+|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ★|
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
 |A1094|[name](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
