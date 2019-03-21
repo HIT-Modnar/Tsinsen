@@ -72,7 +72,7 @@
 |A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)||
 |A1066|[name](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)||
 |A1067|[name](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
-|A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)|☆|
+|A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)| ☆ |
 |A1069|[name](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)||
 |A1070|[name](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)||
 |A1071|[分数线划定](http://www.tsinsen.com/A1071) | [C++](./cpp/A1071/main.cpp)||
@@ -103,4 +103,4 @@
 |A1096|[求子串](http://www.tsinsen.com/A1096) | [C++](./cpp/A1096/main.cpp)||
 |A1097|[独木桥](http://www.tsinsen.com/A1097) | [C++](./cpp/A1097/main.cpp)||
 |A1098|[name](http://www.tsinsen.com/A1098) | [C++](./cpp/A1098/main.cpp)||
-|A1099|[name](http://www.tsinsen.com/A1099) | [C++](./cpp/A1099/main.cpp)||
+|A1099|[星期几](http://www.tsinsen.com/A1099) | [C++](./cpp/A1099/main.cpp)| ☆ |
