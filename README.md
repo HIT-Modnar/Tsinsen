@@ -18,7 +18,7 @@
 |A1011|[进制转换2](http://www.tsinsen.com/A1011) | [C++](./cpp/A1011/main.cpp)||
 |A1012|[进制转换3](http://www.tsinsen.com/A1012) | [C++](./cpp/A1012/main.cpp)||
 |A1013|[进制转换4](http://www.tsinsen.com/A1013) | [C++](./cpp/A1013/main.cpp)||
-|A1014|[进制转换5](http://www.tsinsen.com/A1014) | [C++](./cpp/A1014/main.cpp)||
+|A1014|[进制转换5](http://www.tsinsen.com/A1014) | [C++](./cpp/A1014/main.cpp)| ★ |
 |A1015|[杨辉三角形](http://www.tsinsen.com/A1015) | [C++](./cpp/A1015/main.cpp)||
 |A1016|[缩小的陆地](http://www.tsinsen.com/A1016) | [C++](./cpp/A1016/main.cpp)||
 |A1017|[计算价格](http://www.tsinsen.com/A1017) | [C++](./cpp/A1017/main.cpp)||
@@ -90,12 +90,12 @@
 |A1083|[name](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)||
 |A1084|[name](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)||
 |A1085|[name](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)||
-|A1086|[name](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
+|A1086|[Huffuman树](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
 |A1087|[高精度加法](http://www.tsinsen.com/A1087) | [C++](./cpp/A1087/main.cpp)||
 |A1088|[差分计算](http://www.tsinsen.com/A1088) | [C++](./cpp/A1088/main.cpp)||
 |A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)| ★ |
 |A1090|[name](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)||
-|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ★|
+|A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ★ |
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
 |A1094|[name](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
