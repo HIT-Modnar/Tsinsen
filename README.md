@@ -71,7 +71,7 @@
 |A1064|[name](http://www.tsinsen.com/A1064) | [C++](./cpp/A1064/main.cpp)||
 |A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)||
 |A1066|[name](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)||
-|A1067|[name](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
+|A1067|[Fibonacci数列整除问题](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
 |A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)| ☆ |
 |A1069|[name](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)||
 |A1070|[name](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)||
