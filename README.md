@@ -87,7 +87,7 @@
 |A1080|[name](http://www.tsinsen.com/A1080) | [C++](./cpp/A1080/main.cpp)||
 |A1081|[二分求方程根](http://www.tsinsen.com/A1081) | [C++](./cpp/A1081/main.cpp)||
 |A1082|[name](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)||
-|A1083|[name](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)||
+|A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| TODO |
 |A1084|[name](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)||
 |A1085|[name](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)||
 |A1086|[Huffuman树](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
@@ -98,7 +98,7 @@
 |A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ★ |
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
-|A1094|[name](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
+|A1094|[牛顿迭代法求方程的根](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
 |A1095|[name](http://www.tsinsen.com/A1095) | [C++](./cpp/A1095/main.cpp)||
 |A1096|[求子串](http://www.tsinsen.com/A1096) | [C++](./cpp/A1096/main.cpp)||
 |A1097|[独木桥](http://www.tsinsen.com/A1097) | [C++](./cpp/A1097/main.cpp)||
