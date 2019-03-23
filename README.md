@@ -84,7 +84,7 @@
 |A1077|[坐标排序](http://www.tsinsen.com/A1077) | [C++](./cpp/A1077/main.cpp)||
 |A1078|[逆序对个数](http://www.tsinsen.com/A1078) | [C++](./cpp/A1078/main.cpp)||
 |A1079|[name](http://www.tsinsen.com/A1079) | [C++](./cpp/A1079/main.cpp)||
-|A1080|[name](http://www.tsinsen.com/A1080) | [C++](./cpp/A1080/main.cpp)||
+|A1080|[Fibonacci](http://www.tsinsen.com/A1080) | [C++](./cpp/A1080/main.cpp)| ★ |
 |A1081|[二分求方程根](http://www.tsinsen.com/A1081) | [C++](./cpp/A1081/main.cpp)||
 |A1082|[name](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)||
 |A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| TODO |
