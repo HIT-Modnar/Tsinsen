@@ -86,7 +86,7 @@
 |A1079|[name](http://www.tsinsen.com/A1079) | [C++](./cpp/A1079/main.cpp)||
 |A1080|[Fibonacci](http://www.tsinsen.com/A1080) | [C++](./cpp/A1080/main.cpp)| ★ |
 |A1081|[二分求方程根](http://www.tsinsen.com/A1081) | [C++](./cpp/A1081/main.cpp)||
-|A1082|[name](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)||
+|A1082|[查找第K小元素](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)||
 |A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| TODO |
 |A1084|[name](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)||
 |A1085|[name](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)||
@@ -94,7 +94,7 @@
 |A1087|[高精度加法](http://www.tsinsen.com/A1087) | [C++](./cpp/A1087/main.cpp)||
 |A1088|[差分计算](http://www.tsinsen.com/A1088) | [C++](./cpp/A1088/main.cpp)||
 |A1089|[阶乘计算](http://www.tsinsen.com/A1089) | [C++](./cpp/A1089/main.cpp)| ★ |
-|A1090|[name](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)||
+|A1090|[摆动序列](http://www.tsinsen.com/A1090) | [C++](./cpp/A1090/main.cpp)||
 |A1091|[组合输出](http://www.tsinsen.com/A1091) | [C++](./cpp/A1091/main.cpp)| ★ |
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
