@@ -28,10 +28,10 @@
 |A1021|[集合运算](http://www.tsinsen.com/A1021) | [C++](./cpp/A1021/main.cpp)||
 |A1022|[时间转换](http://www.tsinsen.com/A1022) | [C++](./cpp/A1022/main.cpp)||
 |A1023|[瓷砖铺放](http://www.tsinsen.com/A1023) | [C++](./cpp/A1023/main.cpp)||
-|A1024|[name](http://www.tsinsen.com/A1024) | [C++](./cpp/A1024/main.cpp)||
+|A1024|[瓷砖问题再讨论](http://www.tsinsen.com/A1024) | [C++](./cpp/A1024/main.cpp)| ☆ |
 |A1025|[字符串对比](http://www.tsinsen.com/A1025) | [C++](./cpp/A1025/main.cpp)||
 |A1026|[字符统计](http://www.tsinsen.com/A1026) | [C++](./cpp/A1026/main.cpp)||
-|A1027|[name](http://www.tsinsen.com/A1027) | [C++](./cpp/A1027/main.cpp)||
+|A1027|[拼写检查](http://www.tsinsen.com/A1027) | [C++](./cpp/A1027/main.cpp)| ★ |
 |A1028|[选择计算](http://www.tsinsen.com/A1028) | [C++](./cpp/A1028/main.cpp)||
 |A1029|[补写函数](http://www.tsinsen.com/A1029) | [C++](./cpp/A1029/main.cpp)||
 |A1030|[球队排名](http://www.tsinsen.com/A1030) | [C++](./cpp/A1030/main.cpp)||
