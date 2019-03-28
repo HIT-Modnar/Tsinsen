@@ -47,7 +47,7 @@
 |A1040|[Cantor表](http://www.tsinsen.com/A1040) | [C++](./cpp/A1040/main.cpp)||
 |A1041|[矩阵乘法](http://www.tsinsen.com/A1041) | [C++](./cpp/A1041/main.cpp)||
 |A1042|[矩阵面积交](http://www.tsinsen.com/A1042) | [C++](./cpp/A1042/main.cpp)||
-|A1043|[name](http://www.tsinsen.com/A1043) | [C++](./cpp/A1043/main.cpp)||
+|A1043|[完美的代价](http://www.tsinsen.com/A1043) | [C++](./cpp/A1043/main.cpp)| ☆ |
 |A1044|[Fibonacci数列求和](http://www.tsinsen.com/A1044) | [C++](./cpp/A1044/main.cpp)||
 |A1045|[交换](http://www.tsinsen.com/A1045) | [C++](./cpp/A1045/main.cpp)||
 |A1046|[加法器](http://www.tsinsen.com/A1046) | [C++](./cpp/A1046/main.cpp)||
