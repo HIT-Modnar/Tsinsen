@@ -64,7 +64,7 @@
 |A1057|[FJ的字符串](http://www.tsinsen.com/A1057) | [C++](./cpp/A1057/main.cpp)||
 |A1058|[芯片测试](http://www.tsinsen.com/A1058) | [C++](./cpp/A1058/main.cpp)||
 |A1059|[求解二元整数不定方程](http://www.tsinsen.com/A1059) | [C++](./cpp/A1059/main.cpp)||
-|A1060|[Archery](http://www.tsinsen.com/A1060) | [C++](./cpp/A1060/main.cpp)||
+|A1060|[Archery](http://www.tsinsen.com/A1060) | [C++](./cpp/A1060/main.cpp)| ☆ |
 |A1061|[求因子个数](http://www.tsinsen.com/A1061) | [C++](./cpp/A1061/main.cpp)||
 |A1062|[龟兔赛跑预测](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)||
 |A1063|[name](http://www.tsinsen.com/A1063) | [C++](./cpp/A1063/main.cpp)||
