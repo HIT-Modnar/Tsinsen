@@ -31,7 +31,7 @@
 |A1024|[瓷砖问题再讨论](http://www.tsinsen.com/A1024) | [C++](./cpp/A1024/main.cpp)| ☆ |
 |A1025|[字符串对比](http://www.tsinsen.com/A1025) | [C++](./cpp/A1025/main.cpp)||
 |A1026|[字符统计](http://www.tsinsen.com/A1026) | [C++](./cpp/A1026/main.cpp)||
-|A1027|[拼写检查](http://www.tsinsen.com/A1027) | [C++](./cpp/A1027/main.cpp)| ★ |
+|A1027|[拼写检查](http://www.tsinsen.com/A1027) | [C++11](./cpp/A1027/main.cpp)| ★ |
 |A1028|[选择计算](http://www.tsinsen.com/A1028) | [C++](./cpp/A1028/main.cpp)||
 |A1029|[补写函数](http://www.tsinsen.com/A1029) | [C++](./cpp/A1029/main.cpp)||
 |A1030|[球队排名](http://www.tsinsen.com/A1030) | [C++](./cpp/A1030/main.cpp)||
@@ -56,7 +56,7 @@
 |A1049|[name](http://www.tsinsen.com/A1049) | [C++](./cpp/A1049/main.cpp)||
 |A1050|[碱基比例](http://www.tsinsen.com/A1050) | [C++](./cpp/A1050/main.cpp)||
 |A1051|[DNA序列](http://www.tsinsen.com/A1051) | [C++](./cpp/A1051/main.cpp)||
-|A1052|[name](http://www.tsinsen.com/A1052) | [C++](./cpp/A1052/main.cpp)||
+|A1052|[数的读法](http://www.tsinsen.com/A1052) | [C++](./cpp/A1052/main.cpp)| ☆ |
 |A1053|[The Next Cow](http://www.tsinsen.com/A1053) | [C++](./cpp/A1053/main.cpp)||
 |A1054|[奶牛的罢工](http://www.tsinsen.com/A1054) | [C++](./cpp/A1054/main.cpp)||
 |A1055|["The Next Cow" Strikes Back](http://www.tsinsen.com/A1055) | [C++](./cpp/A1055/main.cpp)||

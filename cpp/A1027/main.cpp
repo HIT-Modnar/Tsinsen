@@ -36,12 +36,17 @@ int edit_dist(const std::string &str1, const std::string &str2) {
     return dis[len1][len2];
 }
 
+//
+// Note:
+//   This program must be compiled under C++11.
+//
 // Idea:
 //   Compute the edit distance between input string and other dictionary strings.
 //   Use a std::vector to store the distance and string of every entry in dictionary.
 //   Sort the vector by distance, then get the minimum distance's string. This is the
 //   target string. However, if the string from this method still have the input's
 //   length distance, should output "NOANSWER".
+//
 int main(int argc, char *argv[]) {
     std::string input, tmp;
     int n, dist;
