@@ -32,6 +32,8 @@ int main(int argc, char *argv[]) {
                     for (size_t k = i; k < n; ++k) {
                         std::swap(matrix[i][k], matrix[j][k]);
                     }
+                    // Swap the vec_b[i] with vec_b[j] at the same time.
+                    std::swap(vec_b[i], vec_b[j]);
                     break;
                 }
             }
@@ -49,18 +51,7 @@ int main(int argc, char *argv[]) {
             tmp -= matrix[i][j] * vec_x[j];
         vec_x[i] = tmp / matrix[i][i];
     }
-//    std::cout << "A:" << std::endl;
-//    for (size_t i = 0; i < n; ++i) {
-//        for (size_t j = 0; j < n; ++j)
-//            std::cout << matrix[i][j] << " ";
-//        std::cout << std::endl;
-//    }
-//    std::cout << "B:" << std::endl;
-//    for (size_t i = 0; i < n; ++i)
-//        std::cout << vec_b[i] << std::endl;
-//    std::cout << std::endl << "Ans:" << std::endl;
     for (size_t i = 0; i < n; ++i)
         printf("%.2f\n", vec_x[i]);
-//        std::cout << vec_x[i] << std::endl;
     return 0;
 }

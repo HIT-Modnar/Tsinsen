@@ -74,7 +74,7 @@
 |A1067|[Fibonacci数列整除问题](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
 |A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)| ☆ |
 |A1069|[name](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)||
-|A1070|[多项式求导](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)| TODO |
+|A1070|[多项式求导](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)| ★ |
 |A1071|[分数线划定](http://www.tsinsen.com/A1071) | [C++](./cpp/A1071/main.cpp)||
 |A1072|[潜伏者](http://www.tsinsen.com/A1072) | [C++](./cpp/A1072/main.cpp)||
 |A1073|[矩阵运算](http://www.tsinsen.com/A1073) | [C++](./cpp/A1073/main.cpp)||
@@ -87,7 +87,7 @@
 |A1080|[Fibonacci](http://www.tsinsen.com/A1080) | [C++](./cpp/A1080/main.cpp)| ★ |
 |A1081|[二分求方程根](http://www.tsinsen.com/A1081) | [C++](./cpp/A1081/main.cpp)||
 |A1082|[查找第K小元素](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)| ★ |
-|A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| TODO |
+|A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| ★ |
 |A1084|[name](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)||
 |A1085|[name](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)||
 |A1086|[Huffuman树](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
