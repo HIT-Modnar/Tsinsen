@@ -102,5 +102,5 @@
 |A1095|[name](http://www.tsinsen.com/A1095) | [C++](./cpp/A1095/main.cpp)||
 |A1096|[求子串](http://www.tsinsen.com/A1096) | [C++](./cpp/A1096/main.cpp)||
 |A1097|[独木桥](http://www.tsinsen.com/A1097) | [C++](./cpp/A1097/main.cpp)||
-|A1098|[name](http://www.tsinsen.com/A1098) | [C++](./cpp/A1098/main.cpp)||
+|A1098|[加法分解](http://www.tsinsen.com/A1098) | [C++](./cpp/A1098/main.cpp)| ☆ |
 |A1099|[星期几](http://www.tsinsen.com/A1099) | [C++](./cpp/A1099/main.cpp)| ☆ |
