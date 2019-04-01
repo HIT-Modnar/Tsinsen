@@ -99,7 +99,7 @@
 |A1092|[数据加密](http://www.tsinsen.com/A1092) | [C++](./cpp/A1092/main.cpp)||
 |A1093|[闰年](http://www.tsinsen.com/A1093) | [C++](./cpp/A1093/main.cpp)||
 |A1094|[牛顿迭代法求方程的根](http://www.tsinsen.com/A1094) | [C++](./cpp/A1094/main.cpp)||
-|A1095|[name](http://www.tsinsen.com/A1095) | [C++](./cpp/A1095/main.cpp)||
+|A1095|[教室排课](http://www.tsinsen.com/A1095) | [C++](./cpp/A1095/main.cpp)||
 |A1096|[求子串](http://www.tsinsen.com/A1096) | [C++](./cpp/A1096/main.cpp)||
 |A1097|[独木桥](http://www.tsinsen.com/A1097) | [C++](./cpp/A1097/main.cpp)||
 |A1098|[加法分解](http://www.tsinsen.com/A1098) | [C++](./cpp/A1098/main.cpp)| ☆ |
