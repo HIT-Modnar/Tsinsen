@@ -59,64 +59,42 @@ int main(int argc, char *argv[]) {
     int i;
     for (i = 0; i < MAX_SIZE; ++i) {
         find_ans = true;
-        if (seq[i][4] == 2 || seq[i][4] == 3) {
-            find_ans = false;
+        if (seq[i][4] == 2 || seq[i][4] == 3) 
             continue;
-        }
         if (seq[i][0] == 1 || seq[i][0] == 2) {
-            if (seq[i][4] != 1) {
-                find_ans = false;
+            if (seq[i][4] != 1) 
                 continue;
-            }
         } else { 
-            if (seq[i][4] == 1) {
-                find_ans = false;
+            if (seq[i][4] == 1) 
                 continue;
-            }
         }
         if (seq[i][1] == 1 || seq[i][1] == 2) {
-            if (seq[i][1] != 2) {
-                find_ans = false;
+            if (seq[i][1] != 2) 
                 continue;
-            }
         } else {
-            if (seq[i][1] == 2) {
-                find_ans = false;
+            if (seq[i][1] == 2) 
                 continue;
-            }
         }
         if (seq[i][2] == 1 || seq[i][2] == 2) {
-            if (seq[i][0] != 5) {
-                find_ans = false;
+            if (seq[i][0] != 5) 
                 continue;
-            }
         } else {
-            if (seq[i][0] == 5) {
-                find_ans = false;
+            if (seq[i][0] == 5) 
                 continue;
-            }
         }
         if (seq[i][3] == 1 || seq[i][3] == 2) {
-            if (seq[i][2] == 1) {
-                find_ans = false;
+            if (seq[i][2] == 1) 
                 continue;
-            }
         } else {
-            if (seq[i][2] != 1) {
-                find_ans = false;
+            if (seq[i][2] != 1) 
                 continue;
-            }
         }
         if (seq[i][4] == 1 || seq[i][4] == 2) {
-            if (seq[i][3] != 1) {
-                find_ans = false;
+            if (seq[i][3] != 1) 
                 continue;
-            }
         } else {
-            if (seq[i][3] == 1) {
-                find_ans = false;
+            if (seq[i][3] == 1) 
                 continue;
-            }
         }
         if (find_ans)
             break;
