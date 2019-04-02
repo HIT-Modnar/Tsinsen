@@ -69,7 +69,7 @@
 |A1062|[龟兔赛跑预测](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)||
 |A1063|[求导函数的值](http://www.tsinsen.com/A1063) | [C++](./cpp/A1063/main.cpp)||
 |A1064|[排名计算](http://www.tsinsen.com/A1064) | [C++](./cpp/A1064/main.cpp)| ★ |
-|A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)||
+|A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)| TODO |
 |A1066|[name](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)||
 |A1067|[Fibonacci数列整除问题](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
 |A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)| ☆ |
