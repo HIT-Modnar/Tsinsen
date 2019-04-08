@@ -53,7 +53,7 @@
 |A1046|[加法器](http://www.tsinsen.com/A1046) | [C++](./cpp/A1046/main.cpp)||
 |A1047|[做明智的消费者](http://www.tsinsen.com/A1047) | [C++](./cpp/A1047/main.cpp)||
 |A1048|[数字三角形](http://www.tsinsen.com/A1048) | [C++](./cpp/A1048/main.cpp)||
-|A1049|[name](http://www.tsinsen.com/A1049) | [C++](./cpp/A1049/main.cpp)||
+|A1049|[命题逻辑](http://www.tsinsen.com/A1049) | [C++](./cpp/A1049/main.cpp)| TODO |
 |A1050|[碱基比例](http://www.tsinsen.com/A1050) | [C++](./cpp/A1050/main.cpp)||
 |A1051|[DNA序列](http://www.tsinsen.com/A1051) | [C++](./cpp/A1051/main.cpp)||
 |A1052|[数的读法](http://www.tsinsen.com/A1052) | [C++](./cpp/A1052/main.cpp)| ☆ |
@@ -69,11 +69,11 @@
 |A1062|[龟兔赛跑预测](http://www.tsinsen.com/A1062) | [C++](./cpp/A1062/main.cpp)||
 |A1063|[求导函数的值](http://www.tsinsen.com/A1063) | [C++](./cpp/A1063/main.cpp)||
 |A1064|[排名计算](http://www.tsinsen.com/A1064) | [C++](./cpp/A1064/main.cpp)| ★ |
-|A1065|[name](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)| TODO |
-|A1066|[name](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)||
+|A1065|[龟兔赛跑](http://www.tsinsen.com/A1065) | [C++](./cpp/A1065/main.cpp)| TODO |
+|A1066|[集合合并](http://www.tsinsen.com/A1066) | [C++](./cpp/A1066/main.cpp)| TODO |
 |A1067|[Fibonacci数列整除问题](http://www.tsinsen.com/A1067) | [C++](./cpp/A1067/main.cpp)||
 |A1068|[回形取数](http://www.tsinsen.com/A1068) | [C++](./cpp/A1068/main.cpp)| ☆ |
-|A1069|[name](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)||
+|A1069|[幻方](http://www.tsinsen.com/A1069) | [C++](./cpp/A1069/main.cpp)| TODO |
 |A1070|[多项式求导](http://www.tsinsen.com/A1070) | [C++](./cpp/A1070/main.cpp)| ★ |
 |A1071|[分数线划定](http://www.tsinsen.com/A1071) | [C++](./cpp/A1071/main.cpp)||
 |A1072|[潜伏者](http://www.tsinsen.com/A1072) | [C++](./cpp/A1072/main.cpp)||
@@ -88,8 +88,8 @@
 |A1081|[二分求方程根](http://www.tsinsen.com/A1081) | [C++](./cpp/A1081/main.cpp)||
 |A1082|[查找第K小元素](http://www.tsinsen.com/A1082) | [C++](./cpp/A1082/main.cpp)| ★ |
 |A1083|[解线性方程组](http://www.tsinsen.com/A1083) | [C++](./cpp/A1083/main.cpp)| ★ |
-|A1084|[name](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)||
-|A1085|[name](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)||
+|A1084|[快速傅立叶变换](http://www.tsinsen.com/A1084) | [C++](./cpp/A1084/main.cpp)| TODO |
+|A1085|[2n皇后问题](http://www.tsinsen.com/A1085) | [C++](./cpp/A1085/main.cpp)| TODO |
 |A1086|[Huffuman树](http://www.tsinsen.com/A1086) | [C++](./cpp/A1086/main.cpp)||
 |A1087|[高精度加法](http://www.tsinsen.com/A1087) | [C++](./cpp/A1087/main.cpp)||
 |A1088|[差分计算](http://www.tsinsen.com/A1088) | [C++](./cpp/A1088/main.cpp)||
@@ -104,3 +104,18 @@
 |A1097|[独木桥](http://www.tsinsen.com/A1097) | [C++](./cpp/A1097/main.cpp)||
 |A1098|[加法分解](http://www.tsinsen.com/A1098) | [C++](./cpp/A1098/main.cpp)| ☆ |
 |A1099|[星期几](http://www.tsinsen.com/A1099) | [C++](./cpp/A1099/main.cpp)| ☆ |
+
+## Note:
+
+Because of Tsinsen won't supply the online judge service for users from 2019-09-01 
+on and in fact the website has stopped the service now (2019-04-08), I can not submit 
+my code on the website. The problems in the list above which marked 'TODO' means the 
+solution code is from other websites. 
+
+There are many good solutions from below websites:
+
+https://www.cnblogs.com/hoskey/p/4377054.html
+
+https://github.com/imageslr/tsinsen
+
+Thanks the authors here. And best wishes for Tsinsen.
