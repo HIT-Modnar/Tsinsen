@@ -26,35 +26,35 @@ const int MAXN = 200000 + 10;
 using namespace std;
 typedef long long ll;
 struct Num {
-   double a , b;
+   double a, b;
     //构造函数
-   Num(double x = 0,double y = 0) {a = x; b = y;}
+   Num(double x = 0, double y = 0) { a = x; b = y; }
     //复数的三种运算
-   Num operator + (const Num &c) {return Num(a + c.a, b + c.b);}
-   Num operator - (const Num &c) {return Num(a - c.a, b - c.b);}
-   Num operator * (const Num &c) {return Num(a * c.a - b * c.b, a * c.b + b * c.a);}
-}x1[MAXN] , x2[MAXN];
+   Num operator+(const Num &c) { return Num(a + c.a, b + c.b); }
+   Num operator-(const Num &c) { return Num(a - c.a, b - c.b); }
+   Num operator*(const Num &c) { return Num(a * c.a - b * c.b, a * c.b + b * c.a); }
+}x1[MAXN], x2[MAXN];
 
 //注意loglen为log后的长度
-void change(Num *t, int len, int loglen){
+void change(Num *t, int len, int loglen) {
     //蝶形变换后的序列编号
-    for (int i = 0; i < len; i++){
+    for (int i = 0; i < len; i++) {
         int x = i, k = 0;
         for (int j = 0; j < loglen; j++, x >>= 1) k = (k << 1) | (x & 1);
         if (k < i) swap(t[k], t[i]);
     }
 }
 //基2-FFT
-void FFT(Num *x, int len, int loglen){
+void FFT(Num *x, int len, int loglen) {
     change(x, len, loglen);
     int t = 1;
     //t为长度
-    for (int i = 0; i < loglen; i++, (t <<= 1)){
+    for (int i = 0; i < loglen; i++, (t <<= 1)) {
         int l = 0, r = l + t;
-        while (l < len){
+        while (l < len) {
             //初始化
             Num a, b, wo(cos(Pi / t), sin(Pi / t)), wn(1, 0);
-            for (int j = l; j < l + t; j++){
+            for (int j = l; j < l + t; j++) {
                 a = x[j];
                 b = x[j + t] * wn;
                 //蝶形计算
@@ -69,9 +69,9 @@ void FFT(Num *x, int len, int loglen){
     }
 }
 //离散傅里叶变换
-void DFT(Num *x, int len, int loglen){
+void DFT(Num *x, int len, int loglen) {
     int t = (1<<loglen);
-    for (int i = 0; i < loglen; i++){
+    for (int i = 0; i < loglen; i++) {
         t >>= 1;
         int l = 0, r = l + t;
         while (l < len){
@@ -88,9 +88,10 @@ void DFT(Num *x, int len, int loglen){
         }    
     }
     change(x, len, loglen);
-    for (int i= 0; i < len; i++) x[i].a /= len;
+    for (int i = 0; i < len; i++) x[i].a /= len;
 }
-int solve(char *a, char *b){
+
+int solve(char *a, char *b) {
     int len1, len2, len, loglen;
     int t, over;
     len1 = strlen(a) << 1;
@@ -100,11 +101,11 @@ int solve(char *a, char *b){
     while (len < len1) len <<= 1, loglen++;
     while (len < len2) len <<= 1, loglen++;
     //处理len1
-    for (int i = 0; i < len; i++){
+    for (int i = 0; i < len; i++) {
         if (a[i]) x1[i].a = a[i] - '0', x1[i].b = 0;
         else x1[i].a = x1[i].b = 0;
     }
-    for (int i = 0; i < len; i++){
+    for (int i = 0; i < len; i++) {
         if (b[i]) x2[i].a = b[i] - '0', x2[i].b = 0;
         else x2[i].a = x2[i].b = 0;
     }
@@ -115,34 +116,34 @@ int solve(char *a, char *b){
     DFT(x1, len, loglen);
     over = len = 0;
     //转换成十进制的整数
-    for (int i = ((len1 + len2) / 2) - 2; i >= 0; i--){
+    for (int i = ((len1 + len2) / 2) - 2; i >= 0; i--) {
         t = (int)((double)x1[i].a + (double)over + 0.5);
         a[len++] = t % 10;
         over = t / 10;
     }
-    while (over){
+    while (over) {
         a[len++] = over % 10;
         over /= 10;
     }
     return len;
 }
 //输出
-void print(char *str, int len){
-     for(len--; len>=0 && !str[len];len--);
-    if(len < 0) putchar('0');
-    else for(;len>=0;len--) putchar(str[len]+'0');
+void print(char *str, int len) {
+    for (len--; len>=0 && !str[len]; len--);
+    if (len < 0) putchar('0');
+    else for (;len>=0;len--) putchar(str[len] + '0');
     printf("\n");
 }
+
 char a[MAXN] , b[MAXN];
 
-int main() {
+int main(int argc, char *argv[]) {
     int n;
-    
     scanf("%d", &n);
     for (int i = 0; i < n; i++) scanf("%lf%lf", &x1[i].a, &x1[i].b);
     int t = 0;
     while ((1<<t) < n) t++;
     FFT(x1, n, t);
     for (int i = 0; i < n; i++) printf("%.2lf %.2lf\n", x1[i].a / n, x1[i].b / n);
-   return 0;
+    return 0;
 }

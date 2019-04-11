@@ -27,12 +27,12 @@ bool issafe(vector<vector<int> > pic, vector<int> pos, int row) {
 
 void blackdfs(vector<vector<int> > blackpic, vector<int> blackpos, int n, int blackrow) {
     c++;
-    if(blackrow == n) {
-        cnt++;
+    if (blackrow == n) {
+        ++cnt;
         return ;
     }
-    for(blackpos[blackrow] = 0; blackpos[blackrow] < n; blackpos[blackrow]++) {
-        if(blackpic[blackrow][blackpos[blackrow]] == 1 && issafe(blackpic, blackpos, blackrow)) {
+    for (blackpos[blackrow] = 0; blackpos[blackrow] < n; blackpos[blackrow]++) {
+        if (blackpic[blackrow][blackpos[blackrow]] == 1 && issafe(blackpic, blackpos, blackrow)) {
             blackdfs(blackpic, blackpos, n, blackrow + 1);
         }
     }
@@ -41,39 +41,39 @@ void blackdfs(vector<vector<int> > blackpic, vector<int> blackpos, int n, int bl
 
 void dfs(vector<vector<int> > pic, vector<int> pos, int n, int row) {
     c++;
-    if(row == n) {
+    if (row == n) {
         vector<vector<int> > blackpic(n, vector<int>(n));
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
                 blackpic[i][j] = pic[i][j];
             }
         }
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             blackpic[i][pos[i]] = 0;
         }
         vector<int> blackpos(n);
         blackdfs(blackpic, blackpos, n, 0);
         return ;
     }
-    for(pos[row] = 0; pos[row] < n; pos[row]++) {
-        if(pic[row][pos[row]] == 1 && issafe(pic, pos, row)) {
+    for (pos[row] = 0; pos[row] < n; pos[row]++) {
+        if (pic[row][pos[row]] == 1 && issafe(pic, pos, row)) {
             dfs(pic, pos, n, row + 1);
         }
     }
 }
 
-int main() {
+int main(int argc, char *argv[]) {
     int n;
     cin >> n;
     vector<vector<int> > pic(n, vector<int>(n));
     vector<int> pos(n);
-    for(int i = 0; i < n; i++) {
-        for(int j = 0; j < n; j++) {
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
             cin >> pic[i][j];
         }
     }
-    dfs(pic, pos, n, 0);
-    cout << cnt<<" c:"<<c<<endl;
+    dfs (pic, pos, n, 0);
+    cout << cnt<< " c:" << c << endl;
     return 0;
 }
 
